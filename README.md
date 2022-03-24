@@ -1,2 +1,2 @@
-# code-comit-lambda
-code-comit-lambda
+# codebuild-for-lambda
+This Repository contains the codes for CodeBuild project.
